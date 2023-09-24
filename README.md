@@ -1,1 +1,2 @@
-# machine_learning_types
+Examples of machine learning models :
+1. Linear regression (supervised)
